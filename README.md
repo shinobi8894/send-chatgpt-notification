@@ -23,3 +23,5 @@
 - Start both servers using `npm start`
 
 - Provide your Novu and ChatGPT credentials where required.
+
+Let's grow together with Shinobi !!!
